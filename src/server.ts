@@ -38,7 +38,7 @@ import { filterImageFromURL, deleteLocalFiles } from './util/util';
         deleteLocalFiles([filteredpath]);
       });
     } catch (error) {
-      res.status(422).send(error);
+      res.status(403).send(error);
     }
   })
 
