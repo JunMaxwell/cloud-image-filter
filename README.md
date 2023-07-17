@@ -7,6 +7,8 @@ The project is split into three parts:
 A basic Ionic client web application which consumes the RestAPI Backend. [Covered in the course]
 2. [The RestAPI Backend](https://github.com/udacity/cloud-developer/tree/master/course-02/exercises/udacity-c2-restapi), a Node-Express server which can be deployed to a cloud service. [Covered in the course]
 3. [The Image Filtering Microservice](https://github.com/udacity/cloud-developer/tree/master/course-02/project/image-filter-starter-code), the final project for the course. It is a Node-Express application which runs a simple script to process images. [Your assignment]
+## Note
+Provide [URL](https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg) in the project's rubric are not publicy accesable, so I'm using a substitute [URL](https://th.bing.com/th/id/R.5911c7a615277533acc957ebf94b480c?rik=4lZrgOB2a4unWg&riu=http://www.aqusagtechnologies.com/wp-content/uploads/2015/07/url1.jpg&ehk=ESWILBvslLNIlwBZhG61v/9o3MNChRb/739GCiFl0Dc=&risl=&pid=ImgRaw&r=0).
 
 ## Tasks
 
